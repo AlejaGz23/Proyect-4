@@ -4,20 +4,20 @@ Una aplicación de catálogo de videos inspirada en Netflix, diseñada para admi
 
 Características
 
-    -Listado de videos por categorías.
-    -CRUD completo: Crear, Leer, Actualizar y Eliminar videos.
-    -Uso de una API REST para el almacenamiento de videos.
-    -Diseño responsivo y estilización con styled-components.
-    -Contexto global para el manejo del estado de videos.
+-Listado de videos por categorías.
+-CRUD completo: Crear, Leer, Actualizar y Eliminar videos.
+-Uso de una API REST para el almacenamiento de videos.
+-Diseño responsivo y estilización con styled-components.
+-Contexto global para el manejo del estado de videos.
 
 Tecnologías Utilizadas
 
-   React: Biblioteca para construir interfaces de usuario.
-    Axios: Manejo de solicitudes HTTP.
-    React Icons: Iconos para botones de edición y eliminación.
-    Styled-components: Estilización de componentes.
-    MockAPI: Simulación de una API REST.
-    React Router: Navegación en la aplicación (si corresponde).
+-React: Biblioteca para construir interfaces de usuario.
+-Axios: Manejo de solicitudes HTTP.
+-React Icons: Iconos para botones de edición y eliminación.
+-Styled-components: Estilización de componentes.
+-MockAPI: Simulación de una API REST.
+-React Router: Navegación en la aplicación (si corresponde).
 
 
 Este proyecto fue iniciado con Create React App.
